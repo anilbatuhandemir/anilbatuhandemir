@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Design<br>🌱 I’m currently learning Machine Learning and AI
+ I’m currently working on Web Design<br> I’m currently learning Machine Learning and AI
 
 
 ## 🌐 Socials:
