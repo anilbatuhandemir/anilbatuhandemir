@@ -15,7 +15,6 @@ I work specifically on developing functional software solutions in the areas of 
 * **Diabetes Tracking System:** A full-stack web app with AI chatbot support using Gemini API.
 * **Virtual Pen:** Real-time drawing application using OpenCV and Python.
 
- **Reach me:** [LinkedIn Profil Linkin Buraya]
 
 
 ##  Socials:
