@@ -1,5 +1,21 @@
-#  About Me:
- I’m currently working on Web Design<br> I’m currently learning Machine Learning and AI
+# Hi there! I'm Anıl Batuhan Demir 
+
+I am a senior **Information Systems and Technologies** student at **Burdur Mehmet Akif Ersoy University**. Currently, I am working as an intern at the **Republic of Türkiye Ministry of Environment, Urbanization and Climate Change**.
+
+Passionate about building functional software solutions, specifically in Web Development, Mobile Apps, and AI integration.
+
+###  Tech Stack & Skills
+* **Web Development:** Node.js, Express.js, MongoDB (Backend), HTML/CSS (Frontend)
+* **Mobile Development:** Flutter (Cross-platform App Development)
+* **Artificial Intelligence:** Gemini API Integration, OpenAI API
+* **Image Processing:** Python, OpenCV (Computer Vision)
+* **Tools:** Git, GitHub, VS Code
+
+###  Recent Projects
+* **Diabetes Tracking System:** A full-stack web app with AI chatbot support using Gemini API.
+* **Virtual Pen:** Real-time drawing application using OpenCV and Python.
+
+ **Reach me:** [LinkedIn Profil Linkin Buraya]
 
 
 ##  Socials:
