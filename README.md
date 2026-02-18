@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on Web Design<br> I’m currently learning Machine Learning and AI
 
 
