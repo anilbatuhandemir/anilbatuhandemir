@@ -2,7 +2,7 @@
 
 I am a senior **Information Systems and Technologies** student at **Burdur Mehmet Akif Ersoy University**. Currently, I am working as an intern at the **Republic of Türkiye Ministry of Environment, Urbanization and Climate Change**.
 
-Passionate about building functional software solutions, specifically in Web Development, Mobile Apps, and AI integration.
+I work specifically on developing functional software solutions in the areas of web development, mobile applications, and artificial intelligence integration.
 
 ###  Tech Stack & Skills
 * **Web Development:** Node.js, Express.js, MongoDB (Backend), HTML/CSS (Frontend)
